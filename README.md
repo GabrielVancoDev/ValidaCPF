@@ -12,6 +12,7 @@ Este é um projeto web simples que permite ao usuário validar um número de CPF
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
 </div>
+
 ## 🔍 Funcionalidades
 
 - Validação completa do CPF segundo a fórmula oficial da Receita Federal.
