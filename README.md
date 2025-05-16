@@ -4,6 +4,14 @@ Este é um projeto web simples que permite ao usuário validar um número de CPF
 
 ---
 
+
+## Linguagens
+
+<div style= "display: inline_block"><br>
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+<img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+</div>
 ## 🔍 Funcionalidades
 
 - Validação completa do CPF segundo a fórmula oficial da Receita Federal.
@@ -56,13 +64,13 @@ A validação segue os passos oficiais:
 
 ## 🖼️ Capturas de Tela
 
-img("![image](https://github.com/user-attachments/assets/63d6d265-f583-4225-8927-6f0600f6ab08)
-")
+![image](https://github.com/user-attachments/assets/63d6d265-f583-4225-8927-6f0600f6ab08)
+![image](https://github.com/user-attachments/assets/af37e18c-9d0b-4ff8-973b-d525d2634e55)
+![image](https://github.com/user-attachments/assets/097423fa-9d99-455c-a15e-688410093d0d)
 
-```markdown
-![Formulário de Validação](imagens/formulario.png)
-![CPF Válido](imagens/cpf_valido.png)
-![CPF Inválido](imagens/cpf_invalido.png)
+
+
+
 🎨 Estilo Visual
 A interface conta com:
 
